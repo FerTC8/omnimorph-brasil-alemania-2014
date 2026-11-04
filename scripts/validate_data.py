@@ -17,6 +17,8 @@ def test_file_existence():
         "02_partido_completo/estadisticas_partido.csv",
         "02_partido_completo/cronologia_goles.json",
         "02_partido_completo/cronologia_goles.csv",
+        "assets/mapa_8_goles.svg",
+        "assets/radar_gol_muller.svg",
         "FUENTES.md",
         "README.md",
         ".gitignore"

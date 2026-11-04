@@ -53,6 +53,9 @@ omnimorph-brasil-alemania-2014/
 │   ├── estadisticas_partido.csv        # Mismas estadísticas tabuladas en CSV
 │   ├── cronologia_goles.json           # Detalle de los 8 goles con minutos, xG, remate y nota táctica
 │   └── cronologia_goles.csv            # Tabla CSV de los 8 goles
+├── assets/
+│   ├── mapa_8_goles.svg                # Plano 2D vectorial de los 8 remates a escala
+│   └── radar_gol_muller.svg            # Radar cenital táctico del 0-1 al minuto 11
 ├── FUENTES.md                          # Detalle de fuentes oficiales (FIFA, Opta, FBref, StatsBomb)
 ├── scripts/
 │   └── validate_data.py                # Validador de esquemas, coordenadas y consistencia
@@ -67,6 +70,9 @@ omnimorph-brasil-alemania-2014/
 - **Minuto**: 11' (reloj `10:33`). Marcador: 0–0 $\rightarrow$ 0–1.
 - **Jugada**: Saque de esquina por derecha cobrado por Toni Kroos (#18) con comba hacia afuera.
 - **Acción táctica**: Pantalla en el área chica de Miroslav Klose (#11) y Benedikt Höwedes (#4) que obstaculiza la marca de David Luiz (#4). Thomas Müller (#13) se desmarca hacia el punto penal con una separación de $3.4\text{ m}$ y remata de primera con derecha a $9.2\text{ m}$ del arco.
+
+![Radar Cenital Gol Müller](assets/radar_gol_muller.svg)
+
 - **Archivos**:
   - `gol_muller_min11.json`: Contrato con las dos ventanas de ~4 s, métricas de remate ($xG \approx 0.35$, velocidad $78.4\text{ km/h}$) y el bloque `estadisticas_acumuladas_minuto_11` con los números del partido previos y al momento del 0–1.
   - `muestra_telemetria_muller.json`: Registro de posiciones de los 22 jugadores, árbitro y balón a 25 fps.
@@ -83,6 +89,8 @@ omnimorph-brasil-alemania-2014/
   6. 69' André Schürrle (0–6)
   7. 79' André Schürrle (0–7)
   8. 90' Oscar (1–7)
+
+![Mapa de los 8 Goles](assets/mapa_8_goles.svg)
 
 ---
 
