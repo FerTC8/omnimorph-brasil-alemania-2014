@@ -54,7 +54,6 @@ omnimorph-brasil-alemania-2014/
 │   ├── cronologia_goles.json           # Detalle de los 8 goles con minutos, xG, remate y nota táctica
 │   └── cronologia_goles.csv            # Tabla CSV de los 8 goles
 ├── FUENTES.md                          # Detalle de fuentes oficiales (FIFA, Opta, FBref, StatsBomb)
-├── fuentes.json                        # Registro estructurado de fuentes y enlaces
 ├── scripts/
 │   └── validate_data.py                # Validador de esquemas, coordenadas y consistencia
 └── README.md

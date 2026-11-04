@@ -18,7 +18,6 @@ def test_file_existence():
         "02_partido_completo/cronologia_goles.json",
         "02_partido_completo/cronologia_goles.csv",
         "FUENTES.md",
-        "fuentes.json",
         "README.md",
         ".gitignore"
     ]
