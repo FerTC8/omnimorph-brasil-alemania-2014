@@ -1,0 +1,422 @@
+{
+  "partido_info": {
+    "id": "WC2014_SF_BRA_GER",
+    "competicion": "Copa Mundial de la FIFA Brasil 2014",
+    "fase": "Semifinal",
+    "fecha": "2014-07-08",
+    "hora_local": "17:00 BRT",
+    "estadio": "Estádio Governador Magalhães Pinto (Mineirão)",
+    "ciudad": "Belo Horizonte, Brasil",
+    "asistencia": 58141,
+    "arbitro": {
+      "principal": "Marco Antonio Rodríguez",
+      "pais": "México",
+      "asistente_1": "Marvin Torrentera (México)",
+      "asistente_2": "Marcos Quintero (México)",
+      "cuarto_arbitro": "Mark Geiger (EE. UU.)"
+    },
+    "condiciones_climaticas": {
+      "temperatura_c": 22,
+      "humedad_pct": 51,
+      "cielo": "Despejado",
+      "viento_kmh": 11
+    },
+    "resultado": {
+      "tiempo_reglamentario": "1-7",
+      "primer_tiempo": "0-5",
+      "segundo_tiempo": "1-2",
+      "ganador": "Alemania (Clasificada a la Final)"
+    }
+  },
+  "equipos": {
+    "brasil": {
+      "team_id": 0,
+      "pais": "Brasil",
+      "codigo": "BRA",
+      "entrenador": "Luiz Felipe Scolari",
+      "esquema_tactico_inicial": "4-2-3-1",
+      "capitan": "David Luiz (#4)",
+      "bajas_notables": [
+        {
+          "nombre": "Neymar Jr",
+          "motivo": "Fractura de tercera vértebra lumbar sufrida en cuartos vs Colombia"
+        },
+        {
+          "nombre": "Thiago Silva",
+          "motivo": "Suspensión por acumulación de tarjetas amarillas"
+        }
+      ],
+      "plantilla": {
+        "12": {
+          "nombre": "Júlio César",
+          "posicion": "Portero",
+          "titular": true,
+          "minutos_jugados": 90,
+          "eventos": [
+            "7 goles recibidos",
+            "3 atajadas"
+          ]
+        },
+        "23": {
+          "nombre": "Maicon",
+          "posicion": "Lateral Derecho",
+          "titular": true,
+          "minutos_jugados": 90,
+          "eventos": []
+        },
+        "4": {
+          "nombre": "David Luiz",
+          "posicion": "Defensa Central (C)",
+          "titular": true,
+          "minutos_jugados": 90,
+          "eventos": [
+            "Capitán"
+          ]
+        },
+        "13": {
+          "nombre": "Dante",
+          "posicion": "Defensa Central",
+          "titular": true,
+          "minutos_jugados": 90,
+          "eventos": [
+            "Tarjeta amarilla 68'"
+          ]
+        },
+        "6": {
+          "nombre": "Marcelo",
+          "posicion": "Lateral Izquierdo",
+          "titular": true,
+          "minutos_jugados": 90,
+          "eventos": [
+            "Asistencia 90'"
+          ]
+        },
+        "17": {
+          "nombre": "Luiz Gustavo",
+          "posicion": "Pivote Defensivo",
+          "titular": true,
+          "minutos_jugados": 90,
+          "eventos": []
+        },
+        "5": {
+          "nombre": "Fernandinho",
+          "posicion": "Mediocentro",
+          "titular": true,
+          "minutos_jugados": 45,
+          "eventos": [
+            "Sustituido en el entretiempo (46')"
+          ]
+        },
+        "7": {
+          "nombre": "Hulk",
+          "posicion": "Extremo Derecho",
+          "titular": true,
+          "minutos_jugados": 45,
+          "eventos": [
+            "Sustituido en el entretiempo (46')"
+          ]
+        },
+        "11": {
+          "nombre": "Oscar",
+          "posicion": "Mediapunta",
+          "titular": true,
+          "minutos_jugados": 90,
+          "eventos": [
+            "Gol 90'"
+          ]
+        },
+        "20": {
+          "nombre": "Bernard",
+          "posicion": "Extremo Izquierdo",
+          "titular": true,
+          "minutos_jugados": 90,
+          "eventos": []
+        },
+        "9": {
+          "nombre": "Fred",
+          "posicion": "Delantero Centro",
+          "titular": true,
+          "minutos_jugados": 69,
+          "eventos": [
+            "Sustituido al 69'"
+          ]
+        },
+        "8": {
+          "nombre": "Paulinho",
+          "posicion": "Mediocentro",
+          "titular": false,
+          "minutos_jugados": 45,
+          "eventos": [
+            "Ingresó al 46'"
+          ]
+        },
+        "16": {
+          "nombre": "Ramires",
+          "posicion": "Extremo / Interior",
+          "titular": false,
+          "minutos_jugados": 45,
+          "eventos": [
+            "Ingresó al 46'"
+          ]
+        },
+        "19": {
+          "nombre": "Willian",
+          "posicion": "Extremo",
+          "titular": false,
+          "minutos_jugados": 21,
+          "eventos": [
+            "Ingresó al 69'"
+          ]
+        },
+        "1": {
+          "nombre": "Jefferson",
+          "posicion": "Portero Suplente",
+          "titular": false,
+          "minutos_jugados": 0,
+          "eventos": []
+        },
+        "22": {
+          "nombre": "Victor",
+          "posicion": "Portero Suplente",
+          "titular": false,
+          "minutos_jugados": 0,
+          "eventos": []
+        },
+        "2": {
+          "nombre": "Dani Alves",
+          "posicion": "Lateral Derecho Suplente",
+          "titular": false,
+          "minutos_jugados": 0,
+          "eventos": []
+        },
+        "14": {
+          "nombre": "Maxwell",
+          "posicion": "Lateral Izquierdo Suplente",
+          "titular": false,
+          "minutos_jugados": 0,
+          "eventos": []
+        },
+        "15": {
+          "nombre": "Henrique",
+          "posicion": "Defensa Central Suplente",
+          "titular": false,
+          "minutos_jugados": 0,
+          "eventos": []
+        },
+        "18": {
+          "nombre": "Hernanes",
+          "posicion": "Mediocentro Suplente",
+          "titular": false,
+          "minutos_jugados": 0,
+          "eventos": []
+        },
+        "21": {
+          "nombre": "Jô",
+          "posicion": "Delantero Suplente",
+          "titular": false,
+          "minutos_jugados": 0,
+          "eventos": []
+        }
+      }
+    },
+    "alemania": {
+      "team_id": 1,
+      "pais": "Alemania",
+      "codigo": "GER",
+      "entrenador": "Joachim Löw",
+      "esquema_tactico_inicial": "4-3-3 / 4-2-3-1",
+      "capitan": "Philipp Lahm (#16)",
+      "plantilla": {
+        "1": {
+          "nombre": "Manuel Neuer",
+          "posicion": "Portero",
+          "titular": true,
+          "minutos_jugados": 90,
+          "eventos": [
+            "1 gol recibido",
+            "7 atajadas"
+          ]
+        },
+        "16": {
+          "nombre": "Philipp Lahm",
+          "posicion": "Lateral Derecho (C)",
+          "titular": true,
+          "minutos_jugados": 90,
+          "eventos": [
+            "Capitán",
+            "Asistencia 24'",
+            "Asistencia 69'"
+          ]
+        },
+        "20": {
+          "nombre": "Jérôme Boateng",
+          "posicion": "Defensa Central",
+          "titular": true,
+          "minutos_jugados": 90,
+          "eventos": []
+        },
+        "5": {
+          "nombre": "Mats Hummels",
+          "posicion": "Defensa Central",
+          "titular": true,
+          "minutos_jugados": 45,
+          "eventos": [
+            "Sustituido en el entretiempo (46')"
+          ]
+        },
+        "4": {
+          "nombre": "Benedikt Höwedes",
+          "posicion": "Lateral Izquierdo",
+          "titular": true,
+          "minutos_jugados": 90,
+          "eventos": []
+        },
+        "7": {
+          "nombre": "Bastian Schweinsteiger",
+          "posicion": "Pivote Organizador",
+          "titular": true,
+          "minutos_jugados": 90,
+          "eventos": []
+        },
+        "6": {
+          "nombre": "Sami Khedira",
+          "posicion": "Interior Box-to-Box",
+          "titular": true,
+          "minutos_jugados": 76,
+          "eventos": [
+            "Gol 29'",
+            "Asistencia 26'",
+            "Sustituido al 76'"
+          ]
+        },
+        "18": {
+          "nombre": "Toni Kroos",
+          "posicion": "Interior / Organizador",
+          "titular": true,
+          "minutos_jugados": 90,
+          "eventos": [
+            "MVP del Partido",
+            "Gol 24'",
+            "Gol 26'",
+            "Asistencia 11'"
+          ]
+        },
+        "8": {
+          "nombre": "Mesut Özil",
+          "posicion": "Extremo / Enganche",
+          "titular": true,
+          "minutos_jugados": 90,
+          "eventos": [
+            "Asistencia 29'"
+          ]
+        },
+        "13": {
+          "nombre": "Thomas Müller",
+          "posicion": "Extremo / Segundo Delantero",
+          "titular": true,
+          "minutos_jugados": 90,
+          "eventos": [
+            "Gol 11'",
+            "Asistencia 23'",
+            "Asistencia 79'"
+          ]
+        },
+        "11": {
+          "nombre": "Miroslav Klose",
+          "posicion": "Delantero Centro",
+          "titular": true,
+          "minutos_jugados": 58,
+          "eventos": [
+            "Gol 23' (Récord histórico: 16 goles en Mundiales)",
+            "Sustituido al 58'"
+          ]
+        },
+        "17": {
+          "nombre": "Per Mertesacker",
+          "posicion": "Defensa Central",
+          "titular": false,
+          "minutos_jugados": 45,
+          "eventos": [
+            "Ingresó al 46'"
+          ]
+        },
+        "9": {
+          "nombre": "André Schürrle",
+          "posicion": "Extremo / Delantero",
+          "titular": false,
+          "minutos_jugados": 32,
+          "eventos": [
+            "Ingresó al 58'",
+            "Gol 69'",
+            "Gol 79'"
+          ]
+        },
+        "14": {
+          "nombre": "Julian Draxler",
+          "posicion": "Mediapunta",
+          "titular": false,
+          "minutos_jugados": 14,
+          "eventos": [
+            "Ingresó al 76'"
+          ]
+        },
+        "12": {
+          "nombre": "Ron-Robert Zieler",
+          "posicion": "Portero Suplente",
+          "titular": false,
+          "minutos_jugados": 0,
+          "eventos": []
+        },
+        "22": {
+          "nombre": "Roman Weidenfeller",
+          "posicion": "Portero Suplente",
+          "titular": false,
+          "minutos_jugados": 0,
+          "eventos": []
+        },
+        "2": {
+          "nombre": "Kevin Großkreutz",
+          "posicion": "Lateral Suplente",
+          "titular": false,
+          "minutos_jugados": 0,
+          "eventos": []
+        },
+        "3": {
+          "nombre": "Matthias Ginter",
+          "posicion": "Defensa Suplente",
+          "titular": false,
+          "minutos_jugados": 0,
+          "eventos": []
+        },
+        "10": {
+          "nombre": "Lukas Podolski",
+          "posicion": "Delantero Suplente",
+          "titular": false,
+          "minutos_jugados": 0,
+          "eventos": []
+        },
+        "15": {
+          "nombre": "Erik Durm",
+          "posicion": "Lateral Suplente",
+          "titular": false,
+          "minutos_jugados": 0,
+          "eventos": []
+        },
+        "19": {
+          "nombre": "Mario Götze",
+          "posicion": "Mediapunta Suplente",
+          "titular": false,
+          "minutos_jugados": 0,
+          "eventos": []
+        },
+        "23": {
+          "nombre": "Christoph Kramer",
+          "posicion": "Centrocampista Suplente",
+          "titular": false,
+          "minutos_jugados": 0,
+          "eventos": []
+        }
+      }
+    }
+  }
+}

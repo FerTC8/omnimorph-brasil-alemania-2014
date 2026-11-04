@@ -1,0 +1,22 @@
+# OMNIMORPH .gitignore
+# Exclude unrelated files from other projects
+index.html
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# IDE and Editor configurations
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Antigravity artifacts and scratch
+.system_generated/

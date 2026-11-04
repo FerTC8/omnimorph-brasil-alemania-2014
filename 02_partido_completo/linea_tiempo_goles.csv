@@ -1,0 +1,9 @@
+Orden,Minuto,Reloj_Oficial,Marcador,Equipo,Anotador,Dorsal_Anotador,Asistente,Dorsal_Asistente,Tipo_Jugada,xG,Pitch_X_cm,Pitch_Y_cm,Distancia_m,Pie_Remate
+1,11,10:33,0-1,Alemania,Thomas Müller,13,Toni Kroos,18,ABP - Córner Derecho,0.35,920,4150,9.2,Derecho (interior de volea)
+2,23,22:04,0-2,Alemania,Miroslav Klose,11,Thomas Müller,13,Ataque Combinado Interior / Rebote,0.65,680,3450,6.8,"Derecho (primer tiro rechazado, segundo remate a placer)"
+3,24,23:57,0-3,Alemania,Toni Kroos,18,Philipp Lahm,16,Centro lateral y volea desde la frontal,0.18,1420,4300,14.2,Izquierdo (empalme de volea exterior)
+4,26,25:38,0-4,Alemania,Toni Kroos,18,Sami Khedira,6,Presión Alta / Recuperación en salida,0.88,850,3600,8.5,Derecho (pase a la red vacía)
+5,29,28:44,0-5,Alemania,Sami Khedira,6,Mesut Özil,8,Ataque vertical y pase atrás,0.42,1120,3200,11.2,Derecho (raso al palo largo)
+6,69,68:11,0-6,Alemania,André Schürrle,9,Philipp Lahm,16,Pase de la muerte tras desborde exterior,0.45,1050,3750,10.5,Derecho (remate de primera al primer palo)
+7,79,78:20,0-7,Alemania,André Schürrle,9,Thomas Müller,13,Control orientado y remate potente al ángulo,0.12,880,2450,8.8,Izquierdo (volea potente al travesaño y adentro)
+8,90,89:45,1-7,Brasil,Oscar,11,Marcelo,6,Contraataque y desborde individual,0.28,10850,3650,11.5,Derecho (disparo cruzado frente a Neuer)
