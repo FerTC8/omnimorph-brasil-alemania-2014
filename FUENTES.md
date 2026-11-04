@@ -29,12 +29,12 @@ Este documento detalla el origen de cada dato, estadística y métrica incluida 
   - Distribución espacial del juego en tercios de campo.
   - Distancias recorridas y estadísticas físicas de jugadores (Kroos 11.5 km, Müller 11.8 km, Lahm 10.9 km, Oscar 10.7 km).
 
-### C. Registro Histórico Opta / FBref
-- **Referencia web**: [FBref - Brazil vs Germany Match Report (2014 World Cup)](https://fbref.com/en/matches/fb011680/Brazil-Germany-July-8-2014-FIFA-World-Cup)
-- **Datos extraídos**:
-  - Desglose de pases completados e intentados: Brasil 402/508 (79.1%), Alemania 512/594 (86.2%).
-  - Pases por jugador: Toni Kroos (66/71, 93%), Philipp Lahm (63/68, 92.6%), Sami Khedira (38/42, 90.5%).
-  - Minutos exactos y segundos de eventos clave en video.
+### C. Registro de Partido FBref (Cotejo Secundario)
+- **Referencia web**: [FBref - Brazil vs Germany Match Report (2014 World Cup)](https://fbref.com/en/matches/04e9fcbd/Brazil-Germany-July-8-2014-World-Cup)
+- **Datos extraídos y uso**:
+  - Cotejo secundario de alineaciones, sustituciones y minutos jugados.
+  - Verificación cruzada de autores de goles y asistencias oficiales.
+  - *Nota metodológica*: El desglose de pases completados/intentados (Brasil 402/508, Alemania 512/594) y precisión individual (Kroos 93%, Lahm 92.6%, Khedira 90.5%) proviene de los registros oficiales de partido Opta / FIFA TSG, ya que FBref no cuenta con tablas de pases avanzados para la edición 2014.
 
 ### D. Aclaración Técnica sobre StatsBomb Open Data
 - En el repositorio público abierto de StatsBomb (`statsbomb/open-data`), los torneos masculinos disponibles cubren 2018 y 2022. En esa base de datos, el archivo `7584.json` corresponde al partido Bélgica vs. Japón del Mundial 2018.
@@ -52,5 +52,5 @@ Este documento detalla el origen de cada dato, estadística y métrica incluida 
 | `01_primer_gol_muller/gol_muller_min11.json` | Estadísticas acumuladas al minuto 11 | Registro de eventos oficiales minuto a minuto |
 | `02_partido_completo/contexto_partido.json` | Datos de sede, clima, alineaciones y árbitros | FIFA Match 61 Official Match Report |
 | `02_partido_completo/estadisticas_partido.*` | Posesión, tiros, córners, faltas, tarjetas, atajadas | Reporte FIFA y Reporte Técnico TSG |
-| `02_partido_completo/estadisticas_partido.*` | Pases intentados/completados y distancias | Opta / FBref Logs |
+| `02_partido_completo/estadisticas_partido.*` | Pases intentados/completados y distancias | Reporte Técnico TSG / Registro oficial Opta |
 | `02_partido_completo/cronologia_goles.*` | Minuto exacto, asistencias, pie de remate y $xG$ | Reporte FIFA + feed de eventos Opta |
