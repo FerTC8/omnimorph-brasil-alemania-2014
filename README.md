@@ -68,7 +68,7 @@ omnimorph-brasil-alemania-2014/
 
 ## SECCIÓN 1: Análisis Específico del 1er Gol de Thomas Müller (Minuto 11')
 
-Módulo ubicado en [`01_gol_muller_min11/`](./01_gol_muller_min11/). Diseñado para el pipeline de procesamiento de fotogramas que lidera Roy.
+Módulo ubicado en [`01_gol_muller_min11/`](./01_gol_muller_min11/). Diseñado para el pipeline de procesamiento de fotogramas.
 
 ### Geometría de la Acción a Balón Parado (ABP)
 - **Minuto oficial**: 11' (Reloj `10:33`).
@@ -118,7 +118,7 @@ Módulo ubicado en [`02_partido_completo/`](./02_partido_completo/).
 
 ---
 
-## Guía Rápida de Consumo en Python (Para Roy)
+## Guía Rápida de Consumo en Python (Roy)
 
 ```python
 import json
