@@ -7,8 +7,8 @@ Este documento detalla el origen de cada dato, estadística y métrica incluida 
 ## 1. Fuentes Principales
 
 ### A. Reporte Oficial de Partido de la FIFA (Partido 61)
-- **Documento**: FIFA World Cup Brazil 2014 - Match Report: Brazil - Germany (Match 61).
-- **Referencia web**: [FIFA.com Match Archive - Brazil vs Germany 2014](https://www.fifa.com/tournaments/mens/worldcup/2014brazil/match-center/300186475)
+- **Documento**: FIFA World Cup Brazil 2014 - Match Report: Brazil - Germany (Match 61, `miugox7gokyia8zss6k2.pdf`).
+- **Referencia web**: [Reporte de Partido FIFA (PDF)](https://digitalhub.fifa.com/m/3dc76f2796b2e941/original/miugox7gokyia8zss6k2-pdf.pdf) | [FIFA.com Match Centre (Match 300186474)](https://www.fifa.com/en/match-centre/match/17/251164/255955/300186474)
 - **Datos extraídos**:
   - Marcador oficial por periodos (1T: 0-5, 2T: 1-2, Final: 1-7).
   - Alineaciones oficiales titulares, suplentes, dorsales y sustituciones.
