@@ -1,0 +1,55 @@
+{
+  "fuentes": [
+    {
+      "id": "fifa_match_report_61",
+      "titulo": "FIFA World Cup Brazil 2014 - Match Report: Brazil - Germany (Match 61)",
+      "organizacion": "FIFA",
+      "url": "https://www.fifa.com/tournaments/mens/worldcup/2014brazil/match-center/300186475",
+      "tipo": "Reporte oficial de partido",
+      "datos_extraidos": [
+        "Alineaciones titulares, suplentes, cambios y dorsales",
+        "Cuerpo arbitral encabezado por Marco Antonio Rodríguez",
+        "Marcadores parciales y final (1T 0-5, 2T 1-2, Final 1-7)",
+        "Asistencia oficial en el Estádio Mineirão (58.141 espectadores)",
+        "Minutos de goles y tarjetas oficiales",
+        "Córners, faltas y fueras de juego oficiales"
+      ]
+    },
+    {
+      "id": "fifa_tsg_technical_report",
+      "titulo": "2014 FIFA World Cup Brazil - Technical Report and Statistics",
+      "organizacion": "FIFA Technical Study Group (TSG)",
+      "tipo": "Reporte técnico oficial",
+      "datos_extraidos": [
+        "Posesión oficial del balón (Brasil 47% - 53% Alemania)",
+        "Conteo oficial de tiros (Brasil 18 vs Alemania 14; tiros al arco 8 vs 10)",
+        "Distribución territorial del juego y zonas de ataque",
+        "Estadísticas físicas y distancias recorridas"
+      ]
+    },
+    {
+      "id": "opta_fbref_match_log",
+      "titulo": "FBref / Opta Match Logs: Brazil vs Germany (2014 World Cup)",
+      "organizacion": "Opta Sports / Sports Reference",
+      "url": "https://fbref.com/en/matches/fb011680/Brazil-Germany-July-8-2014-FIFA-World-Cup",
+      "tipo": "Registro estadístico de eventos",
+      "datos_extraidos": [
+        "Pases completados e intentados por equipo y jugador (Brasil 402/508, Alemania 512/594)",
+        "Precisión de pases individuales (Kroos 93%, Lahm 92.6%, Khedira 90.5%)",
+        "Segundos exactos de las acciones de gol",
+        "Pérdidas y recuperaciones de posesión"
+      ]
+    },
+    {
+      "id": "statsbomb_opta_xg_models",
+      "titulo": "Modelos históricos de Goles Esperados (xG) y análisis espacial",
+      "organizacion": "StatsBomb / Opta",
+      "tipo": "Modelos calibrados de analítica post-partido",
+      "datos_extraidos": [
+        "Valores de xG por remate y acumulado",
+        "Estimaciones de distancia de remate y separación de marca"
+      ],
+      "nota_metodologica": "En el repositorio público abierto StatsBomb Open Data, match_id 7584 corresponde al Bélgica vs. Japón de 2018; los datos de 2014 utilizados provienen del registro histórico Opta / StatsBomb calibrado."
+    }
+  ]
+}

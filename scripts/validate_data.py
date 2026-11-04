@@ -18,6 +18,7 @@ def test_file_existence():
         "02_partido_completo/cronologia_goles.json",
         "02_partido_completo/cronologia_goles.csv",
         "FUENTES.md",
+        "fuentes.json",
         "README.md",
         ".gitignore"
     ]
@@ -33,7 +34,7 @@ def test_muller_ventanas():
     assert "ventanas_tacticas" in data, "Falta 'ventanas_tacticas'"
     assert len(data["ventanas_tacticas"]) == 2, "Deben existir exactamente 2 ventanas tácticas"
     for v in data["ventanas_tacticas"]:
-        for key in ["t0", "t1", "texto_tactico", "texto_narracion", "metricas"]:
+        for key in ["t0", "t1", "texto", "texto_tactico", "texto_narracion", "metricas"]:
             assert key in v, f"Falta clave '{key}' en ventana {v.get('ventana_id')}"
     print("✓ gol_muller_min11.json cumple con el contrato OMNIMORPH y contiene stats al min 11.")
 
