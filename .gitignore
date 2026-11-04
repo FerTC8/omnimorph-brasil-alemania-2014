@@ -2,6 +2,9 @@
 # Exclude unrelated files from other projects
 index.html
 
+# Local rules
+GEMINI.md
+
 # Operating System files
 .DS_Store
 Thumbs.db
