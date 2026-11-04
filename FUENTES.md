@@ -21,7 +21,7 @@ Este documento detalla el origen de cada dato, estadística y métrica incluida 
 
 ### B. Reporte Técnico de la FIFA (Technical Report and Statistics - 2014 FIFA World Cup Brazil)
 - **Documento**: Publicación oficial del Grupo de Estudios Técnicos (TSG) de la FIFA (`2014fwc_tsg_report_15082014web_neutral.pdf`, 284 páginas).
-- **Referencia web**: [FIFA Technical Report 2014 (Web Archive mirror)](https://web.archive.org/web/20150614131111/http://resources.fifa.com/mm/document/footballdevelopment/technicalsupport/02/42/15/40/2014fwc_tsg_report_15082014web_neutral.pdf) | Portal: [FIFA Training Centre Reports](https://www.fifatrainingcentre.com/)
+- **Referencia web**: [Reporte Técnico FIFA Brasil 2014 (PDF)](https://web.archive.org/web/20150614131111/http://resources.fifa.com/mm/document/footballdevelopment/technicalsupport/02/42/15/40/2014fwc_tsg_report_15082014web_neutral.pdf)
 - **Sección clave**: Ficha oficial y telegrama del Partido 61 (Semifinal Brasil vs. Alemania) y perfiles estadísticos de equipo (físicos y territoriales).
 - **Datos extraídos**:
   - Desglose por tiempos de posesión y volumen de tiro: posesión 47% Brasil vs 53% Alemania.
